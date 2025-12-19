@@ -2,6 +2,6 @@
 EFI/.DS_Store
 EFI/OC/.DS_Store
 EFI/OC/*/.DS_Store
+EFI/OC/*/*/.DS_Store
 EFI/OC/._config.plist
-EFI/OC/ACPI/._*
-EFI/OC/Kexts/._*
+EFI/OC/*/*/._*
